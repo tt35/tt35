@@ -8,10 +8,12 @@
 
 <br />
 
+<p>
 I'm Tomoki Takeuchi. I am a data science student who is passionate about using data for good. 
 
 竹内 智紀と申します。現在ノースカロライナ州立大学で解析学の修士課程の取得に向け、日々勉学に励んでいます。
 2023年5月に卒業予定です。
+</p>
 
 ### Education 🎓
 
