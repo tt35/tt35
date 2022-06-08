@@ -7,7 +7,6 @@
 </a>
 
 <br />
-
 <p>
 I'm Tomoki Takeuchi. I am a data science student who is passionate about using data for good. 
 
