@@ -27,7 +27,7 @@ I'm Tomoki Takeuchi. I am a data science student who is passionate about using d
 - [Image Classifier: Transformers vs. Fastai](https://github.com/tt35/AI_Tranformers_vs_Fastai) (Python)
 - [Flight Fare Prediction](https://github.com/tt35/Flight_Fare_Prediction) (R)
 - [Creating a Package in R](https://github.com/tt35/regexcite) (R)
-- [NLP: Color Coding](https://t.me/NepgearBot) (Python)
+- [NLP: Color Coding](https://github.com/tt35/NLP_highlighting) (Python)
 - [Animation Plots using Plotly](https://github.com/tt35/ds303-s22-projects) (R)
 - [Data Wrangling & Visualization](https://github.com/tt35/Data_Visualization) (R)
 
