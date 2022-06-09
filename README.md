@@ -1,4 +1,4 @@
-### Hello! こんにちは！
+# Hello! こんにちは！
 <a href="https://www.linkedin.com/in/tom-takeuchi-60626219b/">
   <img align="left" alt="Tom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
