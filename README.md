@@ -1,4 +1,5 @@
 # Hello! こんにちは！
+
 <a href="https://www.linkedin.com/in/tom-takeuchi-60626219b/">
   <img align="left" alt="Tom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -9,6 +10,7 @@
 
 <br />
 <p>
+  
 I'm Tomoki Takeuchi. I am a data science student who is passionate about using data for good. 
 
 竹内 智紀と申します。現在ノースカロライナ州立大学で解析学の修士課程の取得に向け、日々勉学に励んでいます。
