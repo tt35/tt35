@@ -5,7 +5,7 @@
 </a>
 <!-- Email -->
   <a href="mailto:tomoki.takeuchi.0414@gmail.com">
-   <img align="left" alt="Tom's LinkedIN" width="22px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1654707761~hmac=0b09c710d993daeab64c2d814a77182b" />
+   <img align="left" alt="Tom's email" width="22px" src="http://www.iconarchive.com/download/i95298/dtafalonso/android-l/Gmail.ico" />
   </a>
 
 <br />
