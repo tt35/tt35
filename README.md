@@ -11,17 +11,14 @@
 <br />
 <p>
 
-My name is Tomoki. I am a master’s student at the Institute of Advanced Analytics who is passionate about using data for good. 
+My name is Tomoki. I am interested in using data for social good.
 
-竹内 智紀と申します。現在ノースカロライナ州立大学で解析学の修士課程の取得に向け、日々勉学に励んでいます。
-2023年5月に卒業予定です。
+竹内 智紀です。プロフィール閲覧ありがとうございます。もし何かありましたら、気軽に上記のアイコンからメール、または LinkedIn でのフレンド申請お待ちしております。
 </p>
 
 ### Education 🎓
 
 [Calvin University](https://calvin.edu): BS in Data Science and Geography (2018-2022)
-
-[North Carolina State University - Institute for Advanced Analytics](https://analytics.ncsu.edu/): MS in Analytics (2022 - May 2023)
 
 ### Past Projects/Research 📖
 
