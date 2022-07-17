@@ -1,6 +1,6 @@
 ## Hello! こんにちは！
 
-<a href="https://www.linkedin.com/in/tom-takeuchi/">
+<a href="https://www.linkedin.com/in/tomoki-takeuchi/">
   <img align="left" alt="Tom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- Email -->
