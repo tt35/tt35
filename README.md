@@ -43,6 +43,8 @@ My name is Tomoki. I am interested in using data for social good.
 - Advanced Geographic Information Systems
 
 ### Work Experience 👨‍💻
+[Bosch Japan](https://corporate.bosch.co.jp/): Software Developer (Permanent)
+- Software development for autonomous driving in Japan
 
 Calvin University: Teaching Assistant (Predictive Analytics)
 
