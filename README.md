@@ -5,7 +5,7 @@
 </a>
 <!-- Email -->
   <a href="mailto:tomoki.takeuchi.0414@gmail.com">
-   <img align="left" alt="Tom's email" width="22px" src="http://www.iconarchive.com/download/i95298/dtafalonso/android-l/Gmail.ico" />
+   <img align="left" alt="Tom's email" width="22px" src="https://t3.ftcdn.net/jpg/03/86/50/54/360_F_386505487_omkU0kGEhMa3gQ83rVksoXX41AFFfi0K.jpg" />
   </a>
 
 <br />
@@ -45,10 +45,6 @@ My name is Tomoki. I am interested in using data for social good.
 ### Work Experience 👨‍💻
 [Bosch Japan](https://corporate.bosch.co.jp/): Software Developer (Permanent)
 - Software development for autonomous driving in Japan
-
-Calvin University: Teaching Assistant (Predictive Analytics)
-
-Calvin University: Grader (World Regional Geography)
 
 [Principle](https://www.principle-c.com/): Data Engineer Intern (Mar 2021 – Aug 2021)
 - Used Google Analytics and Google Tag Manager to oversee client company’s performance.
