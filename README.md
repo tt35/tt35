@@ -50,7 +50,6 @@ My name is Tomoki. I am interested in using data for social good.
 - Used Google Analytics and Google Tag Manager to oversee client company’s performance.
 - Set up an environment to extract user’s data who visited company’s website.
 - Set up Ad retargeting to reach customers more efficiently.
-- Some companies I worked with: MoMA Online Store, Descente Ltd., Yves Saint Laurent, Pushpay.
 
 ### Skills 💻
 
