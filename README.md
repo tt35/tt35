@@ -62,4 +62,4 @@ My name is Tomoki. I am interested in using data for social good.
 | Python           	| Intermediate 	|
 | SQL              	| Intermediate 	|
 | Tableau         	| Intermediate 	|
-| SAS               | Beginner      |
+| C++               | Beginner      |
