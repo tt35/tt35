@@ -29,7 +29,7 @@ My name is Tomoki. I am interested in using data for social good.
 - [NLP: Color Coding](https://github.com/tt35/NLP_highlighting) (Python)
 - [Animation Plots using Plotly](https://github.com/tt35/ds303-s22-projects) (R)
 - [Data Wrangling & Visualization](https://github.com/tt35/Data_Visualization) (R)
-- 
+
 ### Academic Experience 📚
 - Artificial Intelligence
 - Modeling & Visualization
